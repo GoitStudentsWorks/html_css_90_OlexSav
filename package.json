@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/CodeCrew-11/",
+    "build": "vite build --base=/html_css_90_OlexSav/",
     "preview": "vite preview"
   },
   "devDependencies": {
